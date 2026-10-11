@@ -29,7 +29,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Phantom-Touch.git
+git clone https://github.com/AnanyaHarithas2607/Phantom-Touch.git
 cd Phantom-Touch
 ```
 
