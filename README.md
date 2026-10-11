@@ -8,14 +8,14 @@
 
 ---
 
-## 👥 Authors & Team
+##  Authors & Team
 - **Shree Manvi** (25BCE5567)
 - **Devayani Manoj** (25BCE5595)
 - **Ananya Harithas** (25BCE5615)
 
 ---
 
-## 🚀 Features & Architecture
+##  Features & Architecture
 - **Zero External Hardware:** Runs purely on built-in laptop / desktop webcams.
 - **Edge Vision AI:** Uses Google MediaPipe to track 21 3D hand landmarks in real-time at 30 FPS.
 - **Spatial Geometry & Layout:** Projects a full 5-row QWERTY keyboard (`1-0`, `Q-P`, `A-L`, `Z-M`, `CLR`, `SPACE`, `ENTER`) in mid-air and desk space.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 ```bash
@@ -52,7 +52,7 @@ python main.py
 
 ---
 
-## 📋 Project Roadmap & Milestones
+##  Project Roadmap & Milestones
 - [x] **Phase 1 (20%):** Core Edge-Vision Pipeline — Camera capture & 21-point 3D hand landmark tracking.
 - [x] **Phase 2 (30%):** Spatial Mapping & Tap Detection — Full 5-row virtual keyboard projection & in-air tap engine.
 - [ ] **Phase 3 (50%):** Core Integration — OS-level keystroke injection using `pynput` / `pyautogui`.
